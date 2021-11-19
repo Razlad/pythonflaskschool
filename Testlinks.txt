@@ -1,3 +1,5 @@
 https://code.tutsplus.com/tutorials/templating-with-jinja2-in-flask-essentials--cms-25571
 
 https://docs.python.org/3/library/sqlite3.html
+
+ISBN 9780615272818
